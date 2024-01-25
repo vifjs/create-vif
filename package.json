@@ -1,0 +1,35 @@
+{
+    "name": "create-vif",
+    "type": "module",
+    "version": "0.0.1",
+    "description": "Template app for vifjs",
+    "homepage": "https://vifjs.dev",
+    "bugs": "https://github.com/vifjs/create-vif/issues",
+    "keywords": [
+        "javascript",
+        "reactive",
+        "hydration",
+        "signal",
+        "state",
+        "revif",
+        "components",
+        "web-components",
+        "es6",
+        "attribute"
+    ],
+    "bin": {
+        "create-vif": "index.js"
+    },
+    "scripts": {
+        "test": "echo \"No test specified\""
+    },
+    "author": {
+        "name": "Enzo Aicardi",
+        "url": "https://enzo.aicardi.pro"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/vifjs/create-vif"
+    },
+    "license": "GPL-3.0-only"
+}
